@@ -15,6 +15,10 @@ The "main.csl" file can be found as an example in the repo.
 ```bash
 c-slash <filename>.csl
 ```
+(or)
+```bash
+./c-slash <filename>.csl
+```
 
 ## Comments
 ```bash
