@@ -1,0 +1,9 @@
+// C-Slash (C/) Programming by Codejapoe
+/* To run this file, 
+  type "c-slash main.csl"
+  in the terminal. */
+
+output("Hello, World!");
+output("Enter your name: ");
+input(name, str);
+output("Welcome, ${name}!");
